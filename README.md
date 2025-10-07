@@ -36,7 +36,7 @@ Functions of version control:
 
 ---
 
-## 3. Why Version Control Matters
+## 3. Why Version Control Matters?
 
 Without version control:
 
