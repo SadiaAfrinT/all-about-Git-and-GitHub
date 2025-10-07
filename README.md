@@ -2,7 +2,7 @@
 
 ---
 
-## 1. What Is a Version?
+## 1. What is a Version?
 
 A version refers to the specific state of a file at a certain point in time. It includes:
 
